@@ -69,4 +69,13 @@
 #####  24. Test Spring App Locally - Part 2
 
 -  connect to remote DB through Workbench
--  ensure CRUD operations are successful     
+-  ensure CRUD operations are successful
+
+#####  25-26. Deploy Real-Time CRUD Spring App to Amazon Cloud - Demo
+
+1.  Create new Application
+2.  Modify RDS security group
+    -  allow access from my local machine
+    -  allow access from EC2 instance security group  
+
+     
