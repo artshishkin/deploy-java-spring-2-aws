@@ -54,4 +54,12 @@
         -  Password: `springstudent`
         -  Test connection: Successful
         -  Create (OK)            
-        
+
+#####  20. Create Table
+
+-  Use `create-user.sql` and `customer-tracker.sql`  scripts
+-  In Workbench:
+    -  Open SQL script: `customer-tracker.sql`
+    -  Execute SQL Script
+    -  Schemas:  Refresh All
+    -  View `web_customer_tracker`
