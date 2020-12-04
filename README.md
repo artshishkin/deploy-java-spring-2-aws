@@ -66,4 +66,7 @@
     
 ####  Section 5: Deploy Real-Time CRUD Spring App to Amazon Cloud
 
-    
+#####  24. Test Spring App Locally - Part 2
+
+-  connect to remote DB through Workbench
+-  ensure CRUD operations are successful     
