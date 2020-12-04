@@ -78,4 +78,7 @@
     -  allow access from my local machine
     -  allow access from EC2 instance security group  
 
-     
+####  Section 6: Creating a Custom Domain Name with AWS Route 53
+
+1.  create subdomain name `springcrm.shyshkin.net`
+2.  create alias for it `shyshkin.net`     
