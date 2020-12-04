@@ -81,4 +81,8 @@
 ####  Section 6: Creating a Custom Domain Name with AWS Route 53
 
 1.  create subdomain name `springcrm.shyshkin.net`
-2.  create alias for it `shyshkin.net`     
+2.  create alias for it `shyshkin.net`
+
+####  Section 7: Bonus - Spring Boot
+
+#####  33. Deploying Spring Boot JAR file with Thymeleaf on AWS     

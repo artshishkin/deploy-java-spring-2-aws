@@ -12,6 +12,7 @@
         <module>helloworld</module>
         <module>helloworldspring</module>
         <module>spring-crm</module>
+        <module>deploy-jar-aws</module>
     </modules>
 
 
