@@ -23,4 +23,8 @@
         -  After upload:
             -  tick it
             -  Actions -> Deploy 
-        
+
+####  Section 3: Deploy Java Spring Apps to Amazon Cloud
+
+-  Create new Application **OR** Update existing (I choose update)
+-  Visit `http://helloworldapp.eu-north-1.elasticbeanstalk.com/`  
